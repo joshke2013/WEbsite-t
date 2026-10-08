@@ -1,0 +1,14 @@
+{
+  "name": "tung-browser-rebuild",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {"node": ">=20.0.0"},
+  "scripts": {"start": "node src/index.js"},
+  "dependencies": {
+    "@mercuryworkshop/bare-mux": "2.1.9",
+    "@titaniumnetwork-dev/ultraviolet": "3.2.10",
+    "express": "5.2.1",
+    "wisp-server-node": "1.1.7"
+  }
+}

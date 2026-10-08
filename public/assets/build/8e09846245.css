@@ -1,0 +1,1 @@
+:root{--bg-image:none}body{background-image:var(--bg-image,none);background-size:cover;background-position:center;background-attachment:fixed}
